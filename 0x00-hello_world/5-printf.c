@@ -1,7 +1,7 @@
-include <stdio.h>
-
+1| (1| include <stdio.h>
+ | ^        ^ 
 /**
- * main - Entry point
+ * main - Entry Point
  *
  * Return: Always 0 (Success)
  */
@@ -9,5 +9,5 @@ include <stdio.h>
 int main(void)
 {
 	printf("with grammar, but the outcome is a piece of art,\n");
-	return (0)
+	return (0);
 }
