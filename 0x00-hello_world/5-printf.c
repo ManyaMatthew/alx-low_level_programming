@@ -1,5 +1,5 @@
-1| (1| include <stdio.h>
- | ^        ^ 
+#include <stdio.h>
+
 /**
  * main - Entry Point
  *
